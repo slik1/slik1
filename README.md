@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slik1
 - 👀 I’m interested in making your web experience better
-- 🌱 I’m currently learning about web3
+- 🌱 I’m currently learning about vanilla web components, React, and web3
 - 💞️ I’m looking to collaborate on new and cool things
 
 
