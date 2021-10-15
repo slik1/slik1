@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gary Saunders</h1>
 <h3 align="center">UI Developer/Designer from San Diego, California</h3>
 
-- 🔭 I’m currently working on [Centralus](https://centralus.hunterindustries.com)
+- 🔭 I’m currently working on a global IOT irrigation device management software called [Centralus](https://centralus.hunterindustries.com)
 
 - 🌱 I’m currently learning **Affordances, UX Engineering Processes, and Usability Testing**
 
