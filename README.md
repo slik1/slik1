@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Centralus](https://centralus.hunterindustries.com)
 
-- 🌱 I’m currently learning **Affordances, UX Engineering Process, Usability Testing**
+- 🌱 I’m currently learning **Affordances, UX Engineering Processes, and Usability Testing**
 
 - 👨‍💻 Some of my projects are available at [garysaunders.com](http://www.garysaunders.com)
 
