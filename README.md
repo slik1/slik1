@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gary Saunders</h1>
-<h3 align="center">UI Developer/Designer from San Diego</h3>
+<h1 align="center">Hello 👋, I'm Gary Saunders</h1>
+<h3 align="center">UI Developer/Designer from San Diego, California</h3>
 
-- 🔭 I’m currently working on [Centralus](centralus.hunterindustries.com)
+- 🔭 I’m currently working on [Centralus](https://centralus.hunterindustries.com)
 
-- 🌱 I’m currently learning **UX Engineering Process, Affordances, Usability Testing**
+- 🌱 I’m currently learning **Affordances, UX Engineering Process, Usability Testing**
 
-- 👨‍💻 Some of my projects are available at [garysaunders.com](garysaunders.com)
+- 👨‍💻 Some of my projects are available at [garysaunders.com](http://www.garysaunders.com)
 
 - ⚡ Fun fact **I find my flow listening to melodic grooves and melodies**
 
