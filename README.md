@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a global IOT irrigation device management software called [Centralus](https://centralus.hunterindustries.com)
 
-- 🌱 I’m currently learning **Affordances, UX Engineering Processes, and Building Reusable Angular Presentational Components**
+- 🌱 I’m currently learning **affordances, UX engineering processes, and building reusable Angular presentational components**
 
 - 👨‍💻 Some of my projects are available at [garysaunders.com](http://www.garysaunders.com)
 
